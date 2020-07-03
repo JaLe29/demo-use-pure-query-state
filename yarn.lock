@@ -10740,10 +10740,10 @@ url@^0.11.0:
     punycode "1.3.2"
     querystring "0.2.0"
 
-use-pure-query-state@^0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/use-pure-query-state/-/use-pure-query-state-0.0.8.tgz#ce6d5d49f57cadaa991e0aa8b032031d2f816ffd"
-  integrity sha512-VzQMy3a+P1OvxPIc1kXacJ+ohjBBwYLtjfXOqm3Oudfc5ZaffktEo4t1pogDOST8FFU4jJIM48oBpGkPp3mDcQ==
+use-pure-query-state@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/use-pure-query-state/-/use-pure-query-state-1.0.0.tgz#ff644973afc2e350ef853f45fbd1d6787b26a4c2"
+  integrity sha512-LKJmwi3+y4ExrbMAuq9vxfhlI37BhB2qI24BEbgDjMP31y36GPiaBidLvzVBtumyZca6vcHQUiP09JpSquZGow==
 
 use@^3.1.0:
   version "3.1.1"
